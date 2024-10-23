@@ -1,10 +1,17 @@
-<div class="item">
+<div class="loading" *ngIf="loading"></div>
+<div class="item" *ngIf="!loading">
   <img
     class="back-icon"
     title="Trở về"
     src="icons/back-icon.png"
-    alt=""
+    alt="Back Icon"
     (click)="onBack()"
   />
-  <iframe [src]="src" frameborder="0" allowfullscreen> </iframe>
+  <iframe
+    #myFrame
+    [src]="src"
+    frameborder="0"
+    allowfullscreen
+    (load)="onIframeLoad()"
+  ></iframe>
 </div>

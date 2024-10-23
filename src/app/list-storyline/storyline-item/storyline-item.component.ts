@@ -1,19 +1,19 @@
-import { Location } from '@angular/common';
-import { Component } from '@angular/core';
+import { CommonModule, Location } from '@angular/common';
+import { Component, ElementRef, ViewChild } from '@angular/core';
 import { DomSanitizer, SafeResourceUrl } from '@angular/platform-browser';
 import { ActivatedRoute } from '@angular/router';
 
 @Component({
   selector: 'app-storyline-item',
   standalone: true,
-  imports: [],
+  imports: [CommonModule],
   templateUrl: './storyline-item.component.html',
   styleUrl: './storyline-item.component.css',
 })
 export class StorylineItemComponent {
   url: string | null = '';
   src: SafeResourceUrl | null = null;
-
+  loading: boolean = true;
   constructor(
     private route: ActivatedRoute,
     private sanitizer: DomSanitizer,
@@ -27,6 +27,12 @@ export class StorylineItemComponent {
       this.src = this.sanitizer.bypassSecurityTrustResourceUrl(this.url);
       console.log(this.src);
     });
+
+    this.onIframeLoad();
+  }
+
+  onIframeLoad(): void {
+    this.loading = false;
   }
 
   onBack() {
