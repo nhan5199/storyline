@@ -1,0 +1,105 @@
+.list-storyline {
+  width: 100%;
+  background-color: #ffcc29;
+  height: 100svh;
+  display: block;
+}
+.title {
+  text-align: center;
+  font-size: 35px;
+  padding: 80px 0 20px 0;
+  font-weight: bold;
+}
+
+.list-storyline-container {
+  top: 55%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  width: 100%;
+  background: #ffcc29;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.back {
+  position: absolute;
+  margin: 0;
+  font-size: 40px;
+  top: 50px;
+  width: 100px;
+  margin-left: 40px;
+}
+.back a {
+  color: white;
+  text-decoration: none;
+  transition: 0.2s;
+  margin-left: 80px;
+}
+.back a i {
+  width: 50px;
+}
+.back a:hover {
+  border: 5px solid white;
+  border-radius: 20px;
+}
+
+.title {
+  text-align: center;
+  font-size: 35px;
+  padding: 80px 0 20px 0;
+  font-weight: bold;
+}
+
+.item {
+  cursor: pointer;
+  position: relative;
+  flex: 0 0 20%;
+  transition: 0.5s ease;
+  margin: 20px;
+}
+
+.item:hover {
+  transform: scale(1.05);
+}
+
+.item img {
+  width: 100%;
+  border-radius: 15px;
+
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.item p {
+  font-size: 20px;
+  font-weight: bold;
+  padding: 10px 20px;
+  border-radius: 15px;
+  position: absolute;
+  bottom: 5%;
+  background: #5ce3f2;
+  color: #3940bf;
+  left: 50%;
+  transform: translateX(-50%);
+  transition: background 0.5s;
+  background: linear-gradient(to left, #5ce3f2 50%, #f2935c 50%) right;
+  background-size: 200%;
+}
+
+.item:hover p {
+  background-position: left;
+}
+
+@media screen and (max-width: 1000px) {
+  .title {
+    padding: 60px 0 20px 0;
+  }
+  .item p {
+    font-size: 10px;
+    bottom: 0;
+  }
+}

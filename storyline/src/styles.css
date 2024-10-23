@@ -1,0 +1,30 @@
+/* You can add global styles to this file, and also import other style files */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/*-----------Back button --------------------*/
+.back-icon {
+  position: fixed;
+
+  width: 2.4rem;
+  cursor: pointer;
+  transition: 0.5s ease;
+  top: 50px;
+  left: 60px;
+}
+
+.back-icon:hover {
+  transform: scale(1.2);
+}

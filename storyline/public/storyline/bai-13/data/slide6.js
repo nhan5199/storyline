@@ -1,0 +1,21 @@
+(function(){var loadHandler=window['sl_{1FFEB5B8-EC85-420D-9061-A922F5AD50EA}'];loadHandler&&loadHandler(5, '<div id="spr0_7322689b"><div id="spr1_7322689b" class="kern slide"><img id="img11_7322689b" src="data/img28.png" width="960px" height="540px" alt="" style="left:0px;top:0px;"/><div id="spr3_7322689b" style="top:-126.352px;"><div style="width:0px;"><span id="txt0_7322689b" data-width="153.386719" style="left:403.85px;top:4.818px;">www.9slide.vn</span></div></div></div><div id="spr2_7322689b" class="kern slide"><div id="spr4_7322689b" style="left:-2.67px;top:-9.056px;"><img id="img0_7322689b" src="data/img19.jpg" width="960" height="563" alt="A close up of a logo\
+\
+Description automatically generated" style="left:-0.001px;top:0.131px;"/></div><div id="spr5_7322689b" style="left:408.264px;top:408.693px;"><img id="img1_7322689b" src="data/img20.png" width="607.131" height="100.336" alt=""/></div><div id="spr6_7322689b" style="left:594.539px;top:400.99px;"><img id="img2_7322689b" src="data/img21.png" width="142" height="80" alt="A pink flower with green leaves\
+\
+Description automatically generated" style="left:0.198px;top:0.049px;"/></div><div id="spr7_7322689b" style="left:847.129px;top:417.644px;"><img id="img3_7322689b" src="data/img22.png" width="97" height="69" alt="A picture containing indoor, flower, vase, table\
+\
+Description automatically generated" style="left:9.1px;top:9.217px;"/></div><div id="spr8_7322689b" style="left:702.061px;top:426.119px;"><img id="img4_7322689b" src="data/img25.png" width="142" height="80" alt="A pink flower with green leaves\
+\
+Description automatically generated" style="left:0.198px;top:0.049px;"/></div><div id="spr9_7322689b" style="left:4.807px;top:330.508px;"><div id="spr10_7322689b" style="top:57.148px;"><img id="img5_7322689b" src="data/img23.png" width="106" height="106" alt="A close up of a flower\
+\
+Description automatically generated" style="left:0.196px;top:0.092px;"/></div><div id="spr11_7322689b" style="left:137.835px;top:0px;"><img id="img6_7322689b" src="data/img23.png" width="106" height="106" alt="A close up of a flower\
+\
+Description automatically generated" style="left:0.196px;top:0.092px;"/></div><div id="spr12_7322689b" style="left:122.767px;top:65.712px;"><img id="img7_7322689b" src="data/img23.png" width="106" height="106" alt="A close up of a flower\
+\
+Description automatically generated" style="left:0.196px;top:0.092px;"/></div><div id="spr13_7322689b" style="left:249.996px;top:65.971px;"><img id="img8_7322689b" src="data/img23.png" width="106" height="106" alt="A close up of a flower\
+\
+Description automatically generated" style="left:0.196px;top:0.092px;"/></div><div id="spr14_7322689b" style="left:243.292px;top:103.1px;"><img id="img9_7322689b" src="data/img23.png" width="106" height="106" alt="A close up of a flower\
+\
+Description automatically generated" style="left:0.196px;top:0.092px;"/></div></div><div id="svg3_7322689b" style="left:90.265px;top:16.61px;"><svg width="994" height="325" viewBox="-306.441 -1.79 994 325"><path fill="#ffffff" stroke="#78302e" stroke-width="2.25" stroke-linecap="butt" stroke-linejoin="round" stroke-dasharray="9,6.75" d="M237.739,165.32 L140.916,207.228 L142.869,156.008 A270.965,82.43 0 1,1 237.739,165.32 Z"/></svg></div><div id="spr15_7322689b" style="left:396.706px;top:18.401px;"><div style="width:0px;"><span id="txt1_7322689b" data-width="319.601685" style="left:112.403px;top:18.256px;">Bạn có biết, hoa có</span></div><div style="width:0px;"><span id="txt2_7322689b" class="relpos" data-width="222.047897" style="left:92.653px;top:63.051px;">cấu tạo và ch</span> <span id="txt3_7322689b" class="nokern relpos" data-width="137.071106" style="left:92.647px;top:63.051px;">ức năng</span></div><div style="width:0px;"><span id="txt4_7322689b" class="nokern" data-width="257.391083" style="left:143.467px;top:107.846px;">thế nào không?</span></div></div><div id="spr16_7322689b" style="left:408.594px;top:147.074px;"><img id="img10_7322689b" src="data/img32.png" width="143" height="192" alt="A drawing of a cartoon character\
+\
+Description automatically generated" style="left:-0.094px;top:0.142px;"/></div></div></div>', '{"s":[]}');})();
